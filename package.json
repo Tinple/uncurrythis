@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tinple/uncurryThis"
+    "url": "https://github.com/Tinple/uncurrythis"
   },
   "keywords": [
-    "uncurryThis",
+    "uncurrythis",
     "safe"
   ],
   "author": "Tinple",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tinple/uncurryThis/issues"
+    "url": "https://github.com/Tinple/uncurrythis/issues"
   },
-  "homepage": "https://github.com/Tinple/uncurryThis"
+  "homepage": "https://github.com/Tinple/uncurrythis"
 }
