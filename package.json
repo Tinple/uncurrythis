@@ -1,0 +1,24 @@
+{
+  "name": "uncurryThis",
+  "version": "0.0.0",
+  "description": "Make safe to use in the presence of untrusted code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinple/uncurryThis"
+  },
+  "keywords": [
+    "uncurryThis",
+    "safe",
+    "code"
+  ],
+  "author": "Tinple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tinple/uncurryThis/issues"
+  },
+  "homepage": "https://github.com/Tinple/uncurryThis"
+}
