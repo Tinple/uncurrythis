@@ -8,10 +8,47 @@ $ [sudo] npm install uncurryThis
 ````
 
 
-### Example
+### Node
 ````javascript
 var uncurryThis = require('uncurryThis');
 ````
+
+### Browser
+```javascript
+<script src="./uncurry.js"></script>
+```
+
+### Uncurrying this
+Uncurring this means: Given a method with the signature
+
+`obj.foo(arg1, arg2)`
+
+transform it into a function with the signature
+
+`foo(obj, arg1, arg2)`
+
+### API
+
+####slice
+```
+slice([1, 2, 3], 0, 2); // [1, 2]
+```
+####reduce
+```
+reduce([1, 2, 3], function (a, b) {
+	return a + b;  // 6
+})
+```
+####map
+```
+map([1, 2, 3], function (a) {
+	return a * 2; // [2, 4, 6]
+})
+```
+####indexOf
+```
+indexOf([1, 2, 3], 3); // 2
+```
 
 ### Contributing
 - Fork this repo
