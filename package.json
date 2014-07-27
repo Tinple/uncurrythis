@@ -1,5 +1,5 @@
 {
-  "name": "uncurryThis",
+  "name": "uncurrythis",
   "version": "0.0.0",
   "description": "Make safe to use in the presence of untrusted code.",
   "main": "uncurry.js",

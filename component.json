@@ -1,10 +1,10 @@
 {
-  "name": "uncurryThis",
+  "name": "uncurrythis",
   "repo": "Tinple/uncurryThis",
   "description": "Make safe to use untrusted code",
   "version": "0.0.0",
   "keywords": [
-  	"uncurryThis",
+  	"uncurrythis",
   	"safe"
   ],
   "main": "uncurry.js",
