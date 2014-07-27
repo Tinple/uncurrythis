@@ -7,6 +7,11 @@ Make safe to use in the presence of untrusted code.
 $ [sudo] npm install uncurrythis
 ````
 
+Or
+
+```
+$ component install Tinple/uncurrythis
+```
 
 ### Node
 ````javascript
@@ -15,7 +20,7 @@ var uncurryThis = require('uncurrythis');
 
 ### Browser
 ```javascript
-<script src="./uncurry.js"></script>
+<script src="./uncurry.js">
 ```
 
 ### Uncurrying this
