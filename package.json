@@ -1,6 +1,6 @@
 {
   "name": "uncurrythis",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Make safe to use in the presence of untrusted code.",
   "main": "uncurry.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "uncurrythis",
     "safe"
   ],
+  "devDependencies": {
+    "should": "3.1.4",
+    "mocha": ">= 1.13.0 < 2"
+  },
   "author": "Tinple",
   "license": "MIT",
   "bugs": {
