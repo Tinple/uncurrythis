@@ -2,7 +2,7 @@
   "name": "uncurrythis",
   "repo": "Tinple/uncurrythis",
   "description": "Make safe to use untrusted code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
   	"uncurrythis",
   	"safe"
