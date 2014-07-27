@@ -2,7 +2,7 @@
   "name": "uncurryThis",
   "version": "0.0.0",
   "description": "Make safe to use in the presence of untrusted code.",
-  "main": "index.js",
+  "main": "uncurry.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,8 +12,7 @@
   },
   "keywords": [
     "uncurryThis",
-    "safe",
-    "code"
+    "safe"
   ],
   "author": "Tinple",
   "license": "MIT",
