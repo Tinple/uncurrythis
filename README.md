@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## uncurryThis ![npm](https://badge.fury.io/js/uncurryThis.png)
 
 Make safe to use in the presence of untrusted code.
@@ -83,3 +84,9 @@ THE SOFTWARE.
 ---
 ![docor](https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/doctor.png)
 built upon love by [docor](https://github.com/turingou/docor.git) v0.1.3
+=======
+uncurryThis
+===========
+
+Safe to use in the presence of untrusted code.
+>>>>>>> 5b6da9a11fec925ba3af52d742dd79eb7c5dc670
